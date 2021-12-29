@@ -30,7 +30,7 @@ This boilerplate uses [design tokens](https://amzn.github.io/style-dictionary/#/
 * Install PostCSS (check [requirements](#requirements))
 
 ## How to use
-run `npx @alexiswalravens/post-css-boilerplate init`
+run `npx @elvcodes/postcss-boilerplate-initializer init`
 
 It will ask you where is you styles folder and copy the content of `src/styles` in it.
 
