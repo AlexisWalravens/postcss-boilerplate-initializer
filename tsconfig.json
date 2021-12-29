@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "outDir": "./bin",
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "baseUrl": ".",
+    "paths": {
+      "*": ["node_modules/*", "src/types/*"]
+    },
+    "allowSyntheticDefaultImports": true,
+  },
+  "include": ["src/**/*.ts", "src/commands/init.tjs"]
+}

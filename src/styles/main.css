@@ -1,0 +1,14 @@
+/* Normalize */
+@import "normalize.css";
+
+/* Media-queries */
+@import "media-queries.css";
+
+/* Variables */
+@import "variables.css";
+
+/* Utilities */
+@import "utilities.css";
+
+/* Global CSS */
+@import "globals.css";

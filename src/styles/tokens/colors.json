@@ -1,0 +1,7 @@
+{
+  "color": {
+    "primary": { "value": "#000" },
+    "secondary": { "value": "#fff" },
+    "tertiary": { "value": "#ccc" }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ratio": {
+    "box": { "value": "1" },
+    "landscape": { "value": "4/3" },
+    "portrait": { "value": "3/4" },
+    "widescreen": { "value": "16/9" },
+    "ultrawide": { "value": "18/5" },
+    "golden": { "value": "1.618/1" }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "font": {
+   "sans": { "value": "system-ui, -apple-system, segoe ui, roboto, ubuntu, cantarell, noto sans, sans-serif" },
+   "serif": { "value": "ui-serif, serif" },
+   "mono": { "value": "inconsolata, fira mono, ui-monospace, sf mono, monaco, droid sans mono, source code pro, monospace" },
+
+    "size":{
+      "00": { "valeu": "0.5rem" },
+      "0": { "valeu": "0.75rem" },
+      "1": { "valeu": "1rem" },
+      "2": { "valeu": "1.1rem" },
+      "3": { "valeu": "1.25rem" },
+      "4": { "valeu": "1.5rem" },
+      "5": { "valeu": "2rem" },
+      "6": { "valeu": "2.5rem" },
+      "7": { "valeu": "3rem" },
+      "8": { "valeu": "3.5rem" },
+      "fluid-1": { "valeu": "clamp(1rem, 4vw, 1.5rem)" },
+      "fluid-0": { "valeu": "clamp(0.75rem, 2vw, 1rem)" },
+      "fluid-2": { "valeu": "clamp(1.5rem, 6vw, 2.5rem)" },
+      "fluid-3": { "valeu": "clamp(2rem, 9vw, 3.5rem)" }
+    },
+
+    "lineheight": {
+      "00": { "value": "0.95" },
+      "0": { "value": "1.1" },
+      "1": { "value": "1.25" },
+      "2": { "value": "1.375" },
+      "3": { "value": "1.5" },
+      "4": { "value": "1.75" },
+      "5": { "value": "2" }
+    },
+
+    "letterespacing": {
+      "0": { "value": "-0.05em" },
+      "1": { "value": "0.025em" },
+      "2": { "value": "0.05em" },
+      "3": { "value": "0.075em" },
+      "4": { "value": "0.15em" },
+      "5": { "value": "0.5em" },
+      "6": { "value": "0.75em" },
+      "7": { "value": "1em" }
+    }
+  }
+}

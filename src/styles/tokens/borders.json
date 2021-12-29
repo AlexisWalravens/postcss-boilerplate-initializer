@@ -1,0 +1,32 @@
+{
+  "border": {
+    "size": {
+      "1": { "value": "1px" },
+      "2": { "value": "2px" },
+      "3": { "value": "5px" },
+      "4": { "value": "10px" },
+      "5": { "value": "25px" }
+    }
+  },
+  "radius": {
+    "1": { "value": "2px" },
+    "2": { "value": "5px" },
+    "3": { "value": "1rem" },
+    "4": { "value": "2rem" },
+    "5": { "value": "4rem" },
+    "6": { "value": "8rem" },
+    "round": { "value": "1e5px" }
+  },
+  "ring": {
+    "color": { "value": "{color.primary.value}" },
+    "offset-width": { "value": "2px" },
+    "inset": { "value": "inset" },
+
+    "0": { "value": "{ring.inset.value} 0 0 0 calc(0px + {ring.offset-width.value}) {ring.color.value}" },
+    "1": { "value": "{ring.inset.value} 0 0 0 calc(1px + {ring.offset-width.value}) {ring.color.value}" },
+    "2": { "value": "{ring.inset.value} 0 0 0 calc(2px + {ring.offset-width.value}) {ring.color.value}" },
+    "default": { "value": "{ring.inset.value} 0 0 0 calc(3px + {ring.offset-width.value}) {ring.color.value}" },
+    "4": { "value": "{ring.inset.value} 0 0 0 calc(4px + {ring.offset-width.value}) {ring.color.value}" },
+    "8": { "value": "{ring.inset.value} 0 0 0 calc(8px + {ring.offset-width.value}) {ring.color.value}" }  
+  }
+}

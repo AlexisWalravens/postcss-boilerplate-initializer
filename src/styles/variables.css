@@ -1,0 +1,87 @@
+/**
+ * Do not edit directly
+ * Generated on Wed, 29 Dec 2021 13:55:11 GMT
+ */
+
+:root {
+  --font-letterespacing-7: 1em;
+  --font-letterespacing-6: 0.75em;
+  --font-letterespacing-5: 0.5em;
+  --font-letterespacing-4: 0.15em;
+  --font-letterespacing-3: 0.075em;
+  --font-letterespacing-2: 0.05em;
+  --font-letterespacing-1: 0.025em;
+  --font-letterespacing-0: -0.05em;
+  --font-lineheight-00: 0.95;
+  --font-lineheight-5: 2;
+  --font-lineheight-4: 1.75;
+  --font-lineheight-3: 1.5;
+  --font-lineheight-2: 1.375;
+  --font-lineheight-1: 1.25;
+  --font-lineheight-0: 1.1;
+  --font-mono: inconsolata, fira mono, ui-monospace, sf mono, monaco, droid sans mono, source code pro, monospace;
+  --font-serif: ui-serif, serif;
+  --font-sans: system-ui, -apple-system, segoe ui, roboto, ubuntu, cantarell, noto sans, sans-serif;
+  --spacing-64: 6.4rem;
+  --spacing-56: 5.6rem;
+  --spacing-44: 4.4rem;
+  --spacing-40: 4rem;
+  --spacing-36: 3.6rem;
+  --spacing-32: 3.2rem;
+  --spacing-28: 2.8rem;
+  --spacing-24: 2.4rem;
+  --spacing-20: 2rem;
+  --spacing-16: 1.6rem;
+  --spacing-14: 1.4rem;
+  --spacing-10: 1rem;
+  --spacing-8: 0.8rem;
+  --spacing-6: 0.6rem;
+  --spacing-4: 0.4rem;
+  --spacing-2: 0.2rem;
+  --spacing-1: 1px;
+  --spacing-0: 0;
+  --shadow-inner: inset 0 2px 4px 0 rgb(0 0 0 / 5%);
+  --shadow-6: 0 25px 50px -12px rgb(0 0 0 / 25%);
+  --shadow-5: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 8px 10px -6px rgb(0 0 0 / 10%);
+  --shadow-4: 0 10px 15px -3px rgb(0 0 0 / 10%), 0 4px 6px -4px rgb(0 0 0 / 10%);
+  --shadow-3: 0 4px 6px -1px rgb(0 0 0 / 10%), 0 2px 4px -2px rgb(0 0 0 / 10%);
+  --shadow-2: 0 1px 3px 0 rgb(0 0 0 / 10%), 0 1px 2px -1px rgb(0 0 0 / 10%);
+  --shadow-1: 0 1px 2px 0 rgb(0 0 0 / 5%);
+  --ratio-golden: 1.618/1;
+  --ratio-ultrawide: 18/5;
+  --ratio-widescreen: 16/9;
+  --ratio-portrait: 3/4;
+  --ratio-landscape: 4/3;
+  --ratio-box: 1;
+  --color-tertiary: #ccc;
+  --color-secondary: #fff;
+  --color-primary: #000;
+  --bp-xxl: 1920px;
+  --bp-xl: 1440px;
+  --bp-lg: 1024px;
+  --bp-md: 768px;
+  --bp-sm: 480px;
+  --bp-xs: 360px;
+  --bp-xxs: 240px;
+  --ring-inset: inset;
+  --ring-offset-width: 2px;
+  --radius-round: 1e5px;
+  --radius-6: 8rem;
+  --radius-5: 4rem;
+  --radius-4: 2rem;
+  --radius-3: 1rem;
+  --radius-2: 5px;
+  --radius-1: 2px;
+  --border-size-5: 25px;
+  --border-size-4: 10px;
+  --border-size-3: 5px;
+  --border-size-2: 2px;
+  --border-size-1: 1px;
+  --ring-default: var(--ring-inset) 0 0 0 calc(3px + var(--ring-offset-width)) var(--ring-color);
+  --ring-color: var(--color-primary);
+  --ring-8: var(--ring-inset) 0 0 0 calc(8px + var(--ring-offset-width)) var(--ring-color);
+  --ring-4: var(--ring-inset) 0 0 0 calc(4px + var(--ring-offset-width)) var(--ring-color);
+  --ring-2: var(--ring-inset) 0 0 0 calc(var(--ring-offset-width) + 2px) var(--ring-color);
+  --ring-1: var(--ring-inset) 0 0 0 calc(1px + var(--ring-offset-width)) var(--ring-color);
+  --ring-0: var(--ring-inset) 0 0 0 calc(0px + var(--ring-offset-width)) var(--ring-color);
+}
