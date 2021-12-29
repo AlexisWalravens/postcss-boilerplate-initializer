@@ -1,5 +1,4 @@
 import chalk from 'chalk'
-// import inquirer from 'inquirer'
 import prompts from 'prompts'
 import path from 'path'
 import { execa } from 'execa'
