@@ -24,6 +24,11 @@
   ],
   "author": "Alexis Walravens",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisWalravens/postcss-boilerplate-initializer.git"
+  },
+  "homepage": "https://github.com/AlexisWalravens/postcss-boilerplate-initializer#readme",
   "browserslist": [
     "> 3%",
     "last 2 versions",
