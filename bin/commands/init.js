@@ -178,7 +178,7 @@ async function init() {
         },
         {
             title: 'Copying Stylelint config',
-            skip: () => stylelint ? false : 'stylelint not needed.',
+            skip: () => stylelint ? false : 'Stylelint not needed.',
             task: () => copyStylelintConfig()
         },
         {
