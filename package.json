@@ -1,6 +1,6 @@
 {
   "name": "@elvcodes/postcss-boilerplate-initializer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quickly setup a new project for PostCSS and style-dictionary.",
   "main": "bin/index.js",
   "type": "module",
@@ -13,7 +13,7 @@
     "css:prod": "postcss src/styles/main.css --output dist/main.css --env production --verbose",
     "css:build": "npm run css:generate && npm run lint --fix && npm run css:prod",
     "css:lint": "stylelint --fix src/styles/**/*.css",
-    "build": "eslint --fix src/**/*.ts && tsc"
+    "build": "eslint --fix src/**/*.ts && tsc && npm run css:generate"
   },
   "keywords": [
     "cli",

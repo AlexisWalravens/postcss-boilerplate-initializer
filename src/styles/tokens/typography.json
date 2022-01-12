@@ -5,20 +5,20 @@
    "mono": { "value": "inconsolata, fira mono, ui-monospace, sf mono, monaco, droid sans mono, source code pro, monospace" },
 
     "size":{
-      "00": { "valeu": "0.5rem" },
-      "0": { "valeu": "0.75rem" },
-      "1": { "valeu": "1rem" },
-      "2": { "valeu": "1.1rem" },
-      "3": { "valeu": "1.25rem" },
-      "4": { "valeu": "1.5rem" },
-      "5": { "valeu": "2rem" },
-      "6": { "valeu": "2.5rem" },
-      "7": { "valeu": "3rem" },
-      "8": { "valeu": "3.5rem" },
-      "fluid-1": { "valeu": "clamp(1rem, 4vw, 1.5rem)" },
-      "fluid-0": { "valeu": "clamp(0.75rem, 2vw, 1rem)" },
-      "fluid-2": { "valeu": "clamp(1.5rem, 6vw, 2.5rem)" },
-      "fluid-3": { "valeu": "clamp(2rem, 9vw, 3.5rem)" }
+      "00": { "value": "0.5rem" },
+      "0": { "value": "0.75rem" },
+      "1": { "value": "1rem" },
+      "2": { "value": "1.1rem" },
+      "3": { "value": "1.25rem" },
+      "4": { "value": "1.5rem" },
+      "5": { "value": "2rem" },
+      "6": { "value": "2.5rem" },
+      "7": { "value": "3rem" },
+      "8": { "value": "3.5rem" },
+      "fluid-1": { "value": "clamp(1rem, 4vw, 1.5rem)" },
+      "fluid-0": { "value": "clamp(0.75rem, 2vw, 1rem)" },
+      "fluid-2": { "value": "clamp(1.5rem, 6vw, 2.5rem)" },
+      "fluid-3": { "value": "clamp(2rem, 9vw, 3.5rem)" }
     },
 
     "lineheight": {
